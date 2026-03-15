@@ -162,7 +162,7 @@ docker run -p 7860:7860 engineering-rag
 ## Deploy to HuggingFace Spaces (free)
 
 1. Go to [huggingface.co](https://huggingface.co) → **New Space**
-2. Name: `engineering-knowledge-rag` | SDK: **Streamlit** | Visibility: **Public**
+2. Name: `engineering-knowledge-rag` | SDK: **Docker/Streamlit** | Visibility: **Public**
 3. Upload all files from this repo
 4. HuggingFace builds and deploys automatically (~5 min)
 5. Live URL: `https://huggingface.co/spaces/YOUR_USERNAME/engineering-knowledge-rag`
